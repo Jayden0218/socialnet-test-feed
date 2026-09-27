@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>SocialNet Test Feed</title>
+    <link>https://github.com/Jayden0218/socialnet-test-feed</link>
+    <description>A text-only test feed for SocialNet's creator claim check. No audio is hosted here.</description>
+    <language>en</language>
+    <item>
+      <title>Test episode 1</title>
+      <guid isPermaLink="false">socialnet-test-1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://example.com/socialnet-test-1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
